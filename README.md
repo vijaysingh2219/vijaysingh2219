@@ -2,17 +2,17 @@
 <br>
 
 ## :sassy_man:  About me
-I'm a Student of `Artificial Inteligence & Cyber Security Engineering` and a freelancer from India.
+I'm a Student of `Cyber Security Engineering` and a freelancer from India.
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source
 community and I love how collaboration and knowledge sharing happened through open-source.
 
-- :school: I am a Student of `Artificial Inteligence & Cyber Security Engineering`.
+- :school: I am a Student of `Cyber Security Engineering`.
 - :technologist: I love programming as it is my hobby.
 - :computer: I am working on a new `Operating System`.
-- :student: I’m currently doing my : `Bachelor of Technology` in `CSE(AI)`.
+- :student: I’m currently doing my : `Bachelor of Technology` in `CSE(CS)`.
 - :nerd_face: Always `learning new things`.
 - 	:herb:I am also a developer of a [Discord Bot]([https://discord.com/api/oauth2/authorize?client_id=856741116912861276&permissions=8&scope=bot](https://discord.com/api/oauth2/authorize?client_id=894052180628234250&permissions=8&scope=bot%20applications.commands)).
 - 	:deciduous_tree: I am working on new andriod app.
