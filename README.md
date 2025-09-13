@@ -1,20 +1,10 @@
 # Hi 👋, I'm Vijay Singh
 
-## An Aspiring programmer and tech enthusiast
+I'm a passionate developer with a knack for exploring emerging technologies and crafting innovative solutions. In my free time, I dive into side projects that challenge me and push the boundaries of what I can do. My primary focus is on TypeScript-based projects and modern web applications, where I blend creativity with clean, efficient code to build user-centric experiences.
 
-![Profile Views](https://komarev.com/ghpvc/?username=vijaysingh2219&label=Profile%20views&color=orange&style=flat&abbreviated=true)
+Whether it's building full-stack apps, or experimenting with new frameworks, I'm always eager to learn. Check out my projects and see what I’m building next!
 
-- 🔭 I’m currently working on **Web applications**
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on **Open Source and Web projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/vijaysingh2219](https://github.com/vijaysingh2219)
-
-- 💬 Ask me about **Reactjs, Expressjs, and more.**
-
-- ⚡ Fun fact **I can solve a Rubik's Cube in under a minute!**
+👉 Explore all my projects in my [public repositories](https://github.com/vijaysingh2219?tab=repositories).
 
 ## Tech Stack
 
@@ -45,21 +35,23 @@
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![Discord.js](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
 
 ### Tools & Platforms
 
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://www.github.com/)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![Nginx](https://skillicons.dev/icons?i=nginx)](https://www.nginx.com/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![Sublime Text](https://skillicons.dev/icons?i=sublime)](https://www.sublimetext.com/)
-[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![Discord.js](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/)
 
 <!-- Footer -->
 
 ![Footer Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer)
 
-## Thanks for visiting my profile. 🌟
+## Thanks for visiting my profile. 🌟 If you like what you see, star some repos! 🚀
